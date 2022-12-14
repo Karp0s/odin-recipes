@@ -1,0 +1,30 @@
+body {
+    text-align: left;
+    background-color: #222426;
+    color:antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+a:link {
+    color: #71ffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: rgb(255, 137, 137);
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: rgb(220, 130, 255);
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: rgba(255, 0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+}
