@@ -1,30 +1,40 @@
-body {
-    text-align: left;
-    background-color: #222426;
-    color:antiquewhite;
-    font-family:Georgia, 'Times New Roman', Times, serif
+* {
+    text-align: center;
+    font-size: 28px;
 }
 
-a:link {
-    color: #71ffff;
-    background-color: transparent;
-    text-decoration: none;
+body {
+    font-family: 'Dancing Script', cursive;
 }
-  
-a:visited {
-    color: rgb(255, 137, 137);
-    background-color: transparent;
-    text-decoration: none;
+
+main {
+    width: 40vw;
+    margin: auto;
 }
-  
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
 a:hover {
-    color: rgb(220, 130, 255);
-    background-color: transparent;
-    text-decoration: underline;
+    color: red;
+    font-size: larger;
 }
-  
-a:active {
-    color: rgba(255, 0, 0, 0);
-    background-color: transparent;
-    text-decoration: underline;
+
+li {
+    text-align: left;
 }
